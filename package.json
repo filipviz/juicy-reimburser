@@ -1,0 +1,23 @@
+{
+  "name": "juicy-reimburser",
+  "version": "1.0.0",
+  "description": "Calculate reimbursements for your Gnosis Safe and/or Juicebox Project.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "keywords": [
+    "Juicebox",
+    "Gnosis Safe",
+    "Ethereum",
+    "Reimbursements"
+  ],
+  "author": "filipviz",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5",
+    "inquirer-date-prompt": "^3.0.0",
+    "spinnies": "^0.5.1",
+    "viem": "^0.1.21"
+  }
+}
