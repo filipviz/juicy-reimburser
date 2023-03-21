@@ -11,6 +11,9 @@
     "Ethereum",
     "Reimbursements"
   ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "author": "filipviz",
   "license": "MIT",
   "dependencies": {

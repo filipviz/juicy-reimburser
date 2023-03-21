@@ -12,7 +12,7 @@ In your terminal, run:
 npx juicy-reimburser
 ```
 
-You must have [node.js](https://nodejs.org/) installed for this to work.
+You must have [node.js](https://nodejs.org/) (v18.0+) installed for this to work.
 
 ## Which Transactions Are Included?
 
